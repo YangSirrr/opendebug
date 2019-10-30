@@ -9,7 +9,7 @@ project address: <https://gitee.com/huangyouzhi/whatsns>
 >
 >   URL:http://127.0.0.1/whatsns/index.php?admin_banned/add.html
 
-![](https://github.com/YangSirrr/opendebug/blob/sourece/w1.png)
+![](/master/w1.png)
 
 - POST:
 
