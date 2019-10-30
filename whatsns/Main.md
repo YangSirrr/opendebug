@@ -8,7 +8,7 @@ project address: <https://gitee.com/huangyouzhi/whatsns>
 
 >
 >   URL:http://127.0.0.1/whatsns/index.php?admin_banned/add.html
-![alt text](/whatsns/img/w1.png)
+![alt text](/whatsns/img/w11.jpg)
 
 
 - POST:
